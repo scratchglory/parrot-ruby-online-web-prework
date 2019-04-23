@@ -5,3 +5,5 @@ def parrot(string, says = "Squawk!")
   
 
 end
+
+parrot()
