@@ -3,9 +3,8 @@
 
 def parrot(string, says = "Squawk!")
   puts #{says}
-  says
   puts #{string}
-  string
+  
 end
 
 parrot()
